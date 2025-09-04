@@ -1,7 +1,7 @@
 export const Jumbotron = () => {
     return (
-        <div className="container-fluid">
-            <div className="row justify-content-center mt-5 mx-4">
+        <div className="container">
+            <div className="row justify-content-center mt-5">
                 <div className="col-12 p-4 m-0 mt-4 bg-body-secondary">
                     <h1 className="mt-5">A Warm Welcome!</h1>
                     <p className="fs-5 text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam eaque cum doloremque deleniti

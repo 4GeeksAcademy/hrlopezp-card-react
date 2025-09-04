@@ -16,8 +16,8 @@ const Home = () => {
         <>
             <Navbar />
             <Jumbotron />
-            <div class="container-fluid p-0">
-                <div class="row justify-content-center mx-4">
+            <div class="container p-0">
+                <div class="row justify-content-center">
                     <Card />
                     <Card />
                     <Card />
